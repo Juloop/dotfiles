@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jules.chapron@zenpark.com
+	name = Jules Chapron
